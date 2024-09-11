@@ -144,3 +144,11 @@ div{
     height: 138px;
     background-color: #906002; 
 }
+.mouse{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    left: 50px;
+    top: 70%;
+}
